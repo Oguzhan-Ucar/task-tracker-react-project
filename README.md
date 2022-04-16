@@ -2,4 +2,4 @@
 
 React practise
 
-This project deployed with Github >>> https://oguzhan-ucar.github.io/task-tracker-react-project/
+This project deployed with github >>> https://oguzhan-ucar.github.io/task-tracker-react-project/
